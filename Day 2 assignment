@@ -30,5 +30,8 @@ Fn + Shift + F2	            Shift + F2	Shows the javadoc of the method, class
 Command + Option + R	      Alt + Shift + R	Rename of package, class etc
 Command + Option + T	      Alt + Shift + T	Opens the quick refactoring menu
 
+How to change compiler version in eclipse?
+Right click on the project go to properties and then java build path--- libraries---press current jre and Edit----select one and finish
 
+After that go to java compiler and select the same
 
